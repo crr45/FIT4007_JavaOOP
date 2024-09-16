@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ff70604-36f7-4d3a-b322-991c9097648a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISE 12/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISE 12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISE 12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISE 12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISE 12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISE 12/EXERCISE 12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISE 12/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/W02_EX12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/W02_EX12/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;crr45&quot;,
+      &quot;author&quot;: &quot;crr45&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;crr45&quot;,
+    &quot;author&quot;: &quot;crr45&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/crr45/FIT4007_JavaOOP.git&quot;,
+    &quot;accountId&quot;: &quot;ff27960f-dabf-4f60-bf51-cfdf64f2f8b8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2m9nyBxzdFpri0SRP3AVcHzsQ5R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/FIT4007_JavaOOP/FIT4007_JavaOOP/W02_EX12"
+  }
+}]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ff70604-36f7-4d3a-b322-991c9097648a" name="Changes" comment="" />
+      <created>1726497911901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726497911901</updated>
+    </task>
+    <task id="LOCAL-00001" summary="EX12">
+      <option name="closed" value="true" />
+      <created>1726498138814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726498138814</updated>
+    </task>
+    <task id="LOCAL-00002" summary="EX12">
+      <option name="closed" value="true" />
+      <created>1726498168534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726498168534</updated>
+    </task>
+    <task id="LOCAL-00003" summary="EX12">
+      <option name="closed" value="true" />
+      <created>1726498177183</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726498177183</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ex12">
+      <option name="closed" value="true" />
+      <created>1726498378586</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726498378586</updated>
+    </task>
+    <task id="LOCAL-00005" summary="b12">
+      <option name="closed" value="true" />
+      <created>1726499073822</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726499073822</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixup! b12">
+      <option name="closed" value="true" />
+      <created>1726499728402</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726499728402</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="EX12" />
+    <MESSAGE value="Ex12" />
+    <MESSAGE value="b12" />
+    <MESSAGE value="fixup! b12" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup! b12" />
+  </component>
+</project>
